@@ -1,5 +1,5 @@
 # Chicken-Disease-Classification--Project
-
+This project aims to classify chicken fecal samples into two categories: diseased (Coccidiosis) and healthy. The classification is based on analyzing images of the fecal samples using computer vision techniques.
 
 ## Workflows
 
