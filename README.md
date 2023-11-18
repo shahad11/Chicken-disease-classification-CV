@@ -1,5 +1,7 @@
 # Chicken-Disease-Classification--Project
-This project aims to classify chicken fecal samples into two categories: diseased (Coccidiosis) and healthy. The classification is based on analyzing images of the fecal samples using computer vision techniques.
+Poultry diseases including Coccidiosis, Salmonella, and Newcastle can lower chicken productivity if they are not detected early on. Deep learning algorithms can assist with the early identification of diseases.
+
+This project aims to classify chicken fecal samples into two categories: diseased (Coccidiosis) and healthy. The classification is based on analyzing images of the fecal samples using computer vision techniques. Also This project aims to complete a end to end solution including deployment in AWS/AZURE
 
 ## Workflows
 
